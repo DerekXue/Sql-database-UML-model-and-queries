@@ -1,0 +1,3 @@
+Report Description :
+- this report consist of database UML model and SQL queries implementation on MSSQL .
+- this database is built for SCS marathon event system back-end usage
